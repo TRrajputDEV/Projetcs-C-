@@ -33,11 +33,13 @@ To-Do List App
 Description: 
 
 A console-based application for managing to-do tasks with CRUD operations.
+
 Concepts Covered: Basic I/O, classes, vectors, and string manipulation.
 
 Tic-Tac-Toe Game
 
 Description: A simple Tic-Tac-Toe game that can be played in the console.
+
 Concepts Covered: Arrays, functions, loops, and game logic.
 
 
